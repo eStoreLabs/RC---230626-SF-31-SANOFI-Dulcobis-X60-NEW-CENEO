@@ -1,2 +1,3 @@
-# RC---230626-SF-32-SANOFI-Dulcobis-CENEO
-https://rc-dulcobis-ceneo.netlify.app/
+# https://github.com/eStoreLabs/RC---230626-SF-31-SANOFI-Dulcobis-X60-NEW-CENEO
+
+https://estorelabs.github.io/RC---230626-SF-31-SANOFI-Dulcobis-X60-NEW-CENEO/
