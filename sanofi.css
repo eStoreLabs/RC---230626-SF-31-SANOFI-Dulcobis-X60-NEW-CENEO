@@ -80,6 +80,7 @@
 }
 #es-rc #es-rc-content ol li {
   list-style: arabic;
+  list-style-type: decimal !important;
 }
 #es-rc #es-rc-content .es-kv__container {
   padding: 0;
