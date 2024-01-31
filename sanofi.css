@@ -79,7 +79,7 @@
   list-style: none;
 }
 #es-rc #es-rc-content ol li {
-  list-style: arabic;
+  list-style: decimal;
   list-style-type: decimal !important;
 }
 #es-rc #es-rc-content .es-kv__container {
